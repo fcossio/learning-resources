@@ -25,5 +25,13 @@ Courses
 
 [Practical Deep Learning for Coders](https://course.fast.ai/)
 
+[NYU Deep Learning Spring 2021](https://atcold.github.io/NYU-DLSP21/)
+
 [Full stack deep learning course](fullstackdeeplearning.com/)
+
+Podcasts
+
+[The Robot Brains Podcast](https://www.therobotbrains.ai/)
+
+[DeepMind: The podcast](https://www.deepmind.com/the-podcast)
 
