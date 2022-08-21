@@ -3,13 +3,13 @@ My resources for learning software data science and machine learning.
 
 # Python
 
-Environment set up
+Building python packages
 
-[Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+[Python Packages book](https://py-pkgs.org/)
 
 Pandas
 
-[Official pandas "Getting started tutorials"](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
+[Official "Getting started tutorials"](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 
 # Databases
 
