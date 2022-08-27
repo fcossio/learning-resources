@@ -1,5 +1,5 @@
 # learning-resources
-My resources for learning software data science and machine learning.
+My resources for learning software engineering, data science, and machine learning.
 
 # Python
 
