@@ -29,6 +29,8 @@ Courses
 
 [NYU Deep Learning Spring 2021](https://atcold.github.io/NYU-DLSP21/)
 
+[Berkley Deep Unsupervised Learning 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
 [Full stack deep learning course](fullstackdeeplearning.com/)
 
 Podcasts
