@@ -7,6 +7,8 @@ Building python packages
 
 [Python Packages book](https://py-pkgs.org/)
 
+[The Good Research Code Handbook](https://goodresearch.dev/)
+
 Pandas
 
 [Official "Getting started tutorials"](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
