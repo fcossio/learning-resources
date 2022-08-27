@@ -3,7 +3,7 @@ My resources for learning software data science and machine learning.
 
 # Python
 
-Building python packages
+Good practices
 
 [Python Packages book](https://py-pkgs.org/)
 
