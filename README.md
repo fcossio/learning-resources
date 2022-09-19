@@ -9,6 +9,8 @@ Good practices
 
 [The Good Research Code Handbook](https://goodresearch.dev/)
 
+[The Grand Unified Theory of Documentation](https://documentation.divio.com/)
+
 Pandas
 
 [Official "Getting started tutorials"](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
