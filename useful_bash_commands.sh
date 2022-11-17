@@ -8,3 +8,6 @@ sudo mount -t cifs -o username=<username>,dir_mode=0<dirmode eg 777>,file_mode=0
 
 # Mount a drive with the user permissions
 sudo mount -o id=$(id) /dev/sdxx /folder
+
+# Get byte size for a list of filepaths
+cat list_of_fp.txt | xargs -I % wc -c % >> file_sizes.txt
