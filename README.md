@@ -1,6 +1,11 @@
 # learning-resources
 My resources for learning software engineering, data science, and machine learning.
 
+# General SWE
+
+[The Twelve-Factor App](https://12factor.net/)
+
+
 # Python
 
 Good practices
@@ -8,6 +13,8 @@ Good practices
 [Python Packages book](https://py-pkgs.org/)
 
 [The Good Research Code Handbook](https://goodresearch.dev/)
+
+[Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 [The Grand Unified Theory of Documentation](https://documentation.divio.com/)
 
