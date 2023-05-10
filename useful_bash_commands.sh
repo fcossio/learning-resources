@@ -7,7 +7,7 @@ until <my command>; do echo "Try again"; sleep 2; done
 sudo mount -t cifs -o username=<username>,dir_mode=0<dirmode eg 777>,file_mode=0<filemode eg 777> //<ip>/<subpath>/ <mount path>
 
 # Mount a drive with the user permissions
-sudo mount -o id=$(id) /dev/sdxx /folder
+sudo mount -o uid=XXXX /dev/sdxx /folder
 
 # Get byte size for a list of filepaths
 cat list_of_fp.txt | xargs -I % wc -c % >> file_sizes.txt
