@@ -48,8 +48,6 @@ Courses
 
 Podcasts
 
-[TalkRL]
-
 [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 
 [DeepMind: The podcast](https://www.deepmind.com/the-podcast)
