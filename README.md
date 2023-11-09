@@ -40,9 +40,15 @@ Courses
 
 [Berkley Deep Unsupervised Learning 2020](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
-[Full stack deep learning course](fullstackdeeplearning.com/)
+[Full stack deep learning course](https://fullstackdeeplearning.com/)
+
+[Probabilistic Machine Learning by Philipp Hennig at the University of Tübingen 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)
+
+[Probabilistic Machine Learning by Felix Koehler](https://www.youtube.com/playlist?list=PLISXH-iEM4JlFsAp7trKCWyxeO3M70QyJ)
 
 Podcasts
+
+[TalkRL]
 
 [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 
