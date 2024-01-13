@@ -32,7 +32,9 @@ MongoDB
 
 # Machine Learning
 
-Courses
+Courses / Playlists
+
+[Singular Value Decomposition](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
 
 [Practical Deep Learning for Coders](https://course.fast.ai/)
 
